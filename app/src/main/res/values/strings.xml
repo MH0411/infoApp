@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">InfoApp</string>
+    <string name="app_name">infoApp</string>
+    <string name="drawer_item_user">Mike</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_first">First</string>
+    <string name="drawer_item_second">Second</string>
+    <string name="drawer_item_third">Third</string>
+    <string name="drawer_item_fourth">Forth</string>
+    <string name="drawer_item_fifth">Fifth</string>
 </resources>
